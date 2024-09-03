@@ -28,12 +28,7 @@
                         class="search-close"><i class="fas fa-times"></i></a>
                 </div>
                 <div class="search-item">
-                    <a href="#">Kodinger.com</a>
-                    <a href="#"
-                        class="search-close"><i class="fas fa-times"></i></a>
-                </div>
-                <div class="search-item">
-                    <a href="#">#Stisla</a>
+                    <a href="#">MHK</a>
                     <a href="#"
                         class="search-close"><i class="fas fa-times"></i></a>
                 </div>
@@ -75,7 +70,7 @@
                         <div class="search-icon bg-danger mr-3 text-white">
                             <i class="fas fa-code"></i>
                         </div>
-                        Stisla Admin Template
+                        mhk template
                     </a>
                 </div>
                 <div class="search-item">
